@@ -1,5 +1,5 @@
-This is an example from the small library I wrote for the research project I am working on with the High Energy Physics Group at UH Manoa.
+This is example Python code from the research project I am working on with the High Energy Physics Group at UH Manoa.
 
-I am including two Python files, `maths.py` contains functions for dealing with Pandas dataframes and `physics.py` contains functions for physics calculations.
+I am including two files. `maths.py` contains functions for dealing with Pandas dataframes. `physics.py` uses these functions for physics calculations.
 
-The functions themselves include descriptions in the form of docstrings.
+The code includes documentation in the form of docstrings.
