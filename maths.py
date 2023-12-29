@@ -1,7 +1,8 @@
 """
 Functions for dealing with dataframes of vectors and matrices.
 
-Vector (matrix) dataframes are Pandas dataframes which contain one vector (matrix) per row. The elements of a row are the components of the vector (matrix).
+Vector (matrix) dataframes are Pandas dataframes which contain one vector (matrix) 
+per row. The elements of a row are the components of the vector (matrix).
 """
 
 
